@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project
+This project was made to analyze player data to aide player recruitment for a game called MineCraft. Specifically, this report focusses on player age and
